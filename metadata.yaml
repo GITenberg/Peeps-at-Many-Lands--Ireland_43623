@@ -1,0 +1,42 @@
+_repo: Peeps-at-Many-Lands--Ireland_43623
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Walker, Francis Sylvester
+    aliases:
+    - Walker, F. S. (Francis Sylvester)
+    - Walker, Fs. (Francis)
+    - Walker, Francis S.
+    birthdate: 1848
+    deathdate: 1916
+    gutenberg_agent_id: '42330'
+    url: http://www.gutenberg.org/2009/agents/42330
+covers:
+- cover_type: archival
+  image_path: 43623-h/images/cover_lg.jpg
+creator:
+  author:
+    agent_name: Tynan, Katharine
+    aliases:
+    - Hinkson, Mrs. H. A.
+    - Tynan, Katherine
+    - Hinkson, Katharine Tynan
+    birthdate: 1861
+    deathdate: 1931
+    gutenberg_agent_id: '7598'
+    url: http://www.gutenberg.org/2009/agents/7598
+    wikipedia: http://en.wikipedia.org/wiki/Katharine_Tynan
+description: ''
+gutenberg_issued: '2013-09-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43623'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ireland -- Description and travel'
+- !lcc 'DA'
+title: 'Peeps at Many Lands: Ireland'
+url: http://www.gutenberg.org/ebooks/43623
